@@ -1,0 +1,16 @@
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\bin\Release\UserSystemProject.exe
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\bin\Release\UserSystemProject.pdb
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\bin\Release\Faker.Portable.dll
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\bin\Release\Faker.Portable.xml
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\bin\Release\de-DE\Faker.Portable.resources.dll
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\bin\Release\en-US\Faker.Portable.resources.dll
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\bin\Release\it-IT\Faker.Portable.resources.dll
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\bin\Release\nb-NO\Faker.Portable.resources.dll
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\bin\Release\pt-BR\Faker.Portable.resources.dll
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\obj\x86\Release\UserSystemProject.addUser.resources
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\obj\x86\Release\UserSystemProject.Form1.resources
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\obj\x86\Release\UserSystemProject.Properties.Resources.resources
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\obj\x86\Release\UserSystemProject.userInformation.resources
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\obj\x86\Release\UserSystemProject.csproj.GenerateResource.Cache
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\obj\x86\Release\UserSystemProject.exe
+C:\Users\Revelati0n\Documents\UserSystemProject\UserSystemProject\obj\x86\Release\UserSystemProject.pdb
